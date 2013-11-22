@@ -5,6 +5,7 @@ This is a straight-forward conversion of the flash assets files from the game Gl
 See http://www.glitchthegame.com/public-domain-game-art/ for more information.
 
 The repository contains only the Inhabitants.
+Everything else: https://github.com/ThirdPartyNinjas/GlitchAssets
 
 Conversion process:  
 I wrote three scripts that run inside of Flash (I used Adobe Flash Professional CC).
